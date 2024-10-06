@@ -26,6 +26,7 @@ router.get("/fundraisers", (req, res) => {
     }
   });
 });
+  
 
 // Route to get all categories
 router.get("/categories", (req, res) => {
